@@ -1,0 +1,85 @@
+7/1
+
+자기소개 -> 인상을 남기자.. (기억할만한 특징 만들기)
+
+수업: 월 10:30 ~ 12:30, 14:00~15:00, 금 10:30 ~ 11:30
+개발활동: 그 외 나머지 시간
+수업 마무리: 성장노트 작성, PR
+
+Honor Code: 적극적 지식 공유, 서로를 돕는다..
+
+What if You’re Learning in a Highly Uncertain Environment?
+모델: 불확실한 현실 세상을 단순화 시킨 장치 -> 변수로 통제하는..
+
+How much you Learn?
+From Theory << From Practice << From Mistakes
+
+Why Use Data?
+처리비용이 비싸다 -> 그 비용보다 훨씬 더 가치있는 정보가 나와야 한다.
+Problem (Monetary Value) - Solution (Data + Technology)
+=> Problem Definition이 중요..
+
+Heuristic Decision-Making - Fast, Intuitive, but prone to bias!
+=> Evidence-based decisions -> Data를 통해 신뢰성 있는 근거를 제공
+
+예)
+이전 광고 노출 -> CPM(광고 노출 횟수)를 높이려 했다..? -> 근데 Tracking 불가
+-> 우리 광고를 보고 클릭해서 들어가면 돈을 줌 -> 클릭률(CTR)을 제시 -> 근데 광고 노출을 통해 물건을 안 사.. -> 물건을 살 확률 (STR)을 제시
+
+데이터를 이해하기 위해서는 ‘비즈니스 도메인’을 이해해야 함 -> 전문가와 소통
+
+Collecting Source Data (제일 시간 많이 걸리고, 제일 중요한..)-> Processing Data -> Storing Data -> Making Data Available to Users Securely
+
+
+——————————
+현대자동차그룹 ICT 담당
+고객: 대외 - 자동차 구매자, 온라인 서비스 사용자 / 대내 - 내부 임직원, 협력사 직원, 파트너 등
+만족: 기능/안전성/성능/보안/민첩성
+IT서비스 (시스템 X) 제공
+
+IT Control Tower
+조직 규모 -> 전체적으로 성장 중,,
+
+** 오후 수업 **
+
+‘딸에게 “어떠한 한 마디”를 통해 최적화된 설명서를 만들 수 있다면?’
+=> 기획자에게 더 ‘명확하고 구체적으로’ 설명해야지~ = uncertainty가 높은 환경에선 불가능
+=> 최소 Cost로 최대한 많은 Feedback을 받게끔 하는 것
+—> ‘한 줄씩’ 써서 아빠에게 검사받아서 통과하면 다음 줄을 쓴다. 아니면 쓴 줄을 고친다.
+
+Functional Skills
+- Convert business requirements into technical specifications
+- Work with the complete software development lifecycle
+- understand data’s potential application in business
+- Understand risks of poor data management
+
+—————————
+Data Types
+- 정형 = 테이블
+- 반정형 = 일부만 정형, xml, tcp/ip, json, tags, ...
+- 비정형
+
+Home Address?는 어떻게 저장할 것인가..
+String? 나눠서 Structured Data? -> 때에 따라 생기는 문제들에 대한 생각을 해야 함.
+
+=> 우리가 뭘 하고자 함에 따라 정형으로 데이터를 다룰지, 비정형으로 다룰지, 반정형으로 다룰지를 결정하는..
+
+[ 동영상 - 기본적으로 비정형 => 동영상 내용 분석 / 동영상 기본 정보 분석 -> 정형 ]
+[ 이메일 - body만 저장? / header만 저장? ]
+
+
+ETL (Extract, Transform, Load)
+Transform에 드는 비용이 어마무시함
+
+Extract 공간 - 저성능, 네트워크 공간, 시간 오래 걸리는..
+Staging Area - 데이터 변환에 들어가는 중간 단계, 비싼 공간
+[ 결국 분리해서 짜라 ] 
+
+
+회고와 리뷰는 어떻게 다를까요?
+먼저 리뷰는 특정 기간 동안의 행동과 그 결과를 취합하고 평가합니다. 그에 반해 회고는 리뷰한 사실들을 바탕으로 과정의 개선에 목적을 두고 수행합니다.
+따라서 회고를 잘하려면 리뷰를 미리 해야 합니다. 1일 회고를 한다면 먼저 1일 리뷰를 해서 그날 했던 행동들과 그 결과들을 정리하고 평가하세요. 그런 다음 회고를 통해 '과정의 개선'을 도모하세요.
+
+회고가 잘 안된다면?
+KPT (Keep, Problem, Try) 템플릿을 사용해 보세요. 3개의 칸을 만든 다음, Keep에는 이번에 잘 해서 계속 유지했으면 좋다고 생각하는 행동을, Problem에는 문제가 발생한 행동들을 적어 보세요. 그리고 Try에는 다음 번에 새롭게 시도했으면 좋을 행동들을 적어 보세요.
+회고의 목적은 '과정의 개선'에 있다는 점을 잊지 마세요.

@@ -1,0 +1,52 @@
+7/6 DE 직무교육 2
+
+If AI is the wild west, is data the new gold?
+
+Dark Data를 활용해서 인사이트를 얻어??
+
+모든 Big data 처리의 시작은 ‘Business Case’	 
+“어떤 문제를 풀고 싶은가?”
+
+Big Data 5V - **Velocity**, Volume, Variety, **Veracity**, Value
+
+Embarrassingly Parallel vs Nearly Parallel
+
+Task parallelism: focus on processes (이거 끝나면 다음엔 저거, …) -> express message-passing
+
+Data parallelism: focus on performing operations on a data set, A set of tasks will operate on this data, but independently on disjoint partitions. (데이터를 쪼개고 그 부분들에 대해 작업 시행) -> 하둡..
+
+
+Multiprocessing vs Multithreading
+(IO bound process [데이터 뽑아오고, ~~] vs CPU-bound process [데이터 처리하고 변환하고, …])
+
+Parallel computing vs Distributed Computing
+[여러 프로세서가 공유된 메모리에서 처리 vs 각각의 프로세서와 메모리를 가진 장비들이 작업들을 공유..?]
+
+Scaling up vs Scaling Out
+...??
+
+Docker
+
+How to get Feedback on Dockerfile
+	❖ Do-it-yourself: See if it works first
+	한 줄 씩 작성 후 피드백
+	❖ Sandwich video: Dockerfile
+
+
+Data Product
+- Reusable data asset…
+
+Actionable Data
+
+최근 3개월간 어떠한 데이터를 얻었다면, 어떤 행동을 바꿀 수 있나..????
+
+Prototyping을 잘하는 법…?(사실 아님..?)
+이거 진짜 우리가 만드는게 맞나..? -> 그거 확인하려고
+‘타겟 고객을 선정하고 그에게 Prototype을 보여줌으로써 피드백을 받는 것’
+
+Product Development를 잘 하려면..?
+- **Use Case**를 아주 구체적으로 써야 함.
+    - 고통이 큰 문제를 정의
+- 주제를 좁히세요 (현대자동차가 생산하는 차량의 ~~~, ok, 먼저 Ionic5부터 해보자..)
+- 고객을 좁게 정의하자 (현대자동차 -> 인사팀에서 ~~를 관리하는 책임자)
+- 비싸게 돈을 받고 판다는 가정을 하자. (과연 살 것인가? 그 정도의 가치가 없다면 팔지 말아야..)
