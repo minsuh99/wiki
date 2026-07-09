@@ -3,7 +3,7 @@
 - 일정: 2026. 07. 06 ~ 2026. 07. 09.
 - 조원: 이동찬, 박민서, 김민수, 최지욱
 
-- [W2M5 소스 코드로 이동](./W2M5_team_activity.ipynb)
+- [W2M5 소스 코드로 이동](./missions/W2M5_team_activity.ipynb)
 
 ---
 
